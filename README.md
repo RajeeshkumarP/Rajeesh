@@ -1,6 +1,6 @@
 👋 Hey there, I’m Rajeesh!
 💡 Data tells the story — I just translate it.
-With 4+ years of turning raw data into actionable insights, I live in the intersection of analytics, business, and storytelling.
+Over all 9+ years With 4+ years of turning raw data into actionable insights, I live in the intersection of analytics, business, and storytelling.
 From HR metrics to interactive dashboards, I thrive on finding patterns and making them visible.
 
 - 📊 Data Analytics: SQL | Power BI | Tableau
